@@ -16,5 +16,5 @@ A method for predicting solvent molecular DN values by machine learning
   &ensp;&ensp;(Note that git downloads replace the address with https://github.com/chemprop/chemprop-v1-old-branches.git)
 
 ## Use guaid
-&ensp;&ensp;Train using the provided ML, DL dataset to get the model file
+&ensp;&ensp;Train using the provided ML, DL dataset to get the model file  
 &ensp;&ensp;Then predicted molecular DN values can then be obtained using predict_dn.py
