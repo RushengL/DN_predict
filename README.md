@@ -12,5 +12,5 @@ A method for predicting solvent molecular DN values by machine learning
 **for DL part:**  
   &ensp;&ensp;chemprop==1.7.1  
   &ensp;&ensp;The installation method can be found at the link:  
-  &ensp;&ensp;https://chemprop.readthedocs.io/en/v1.7.1/installation.html (Install from source)
+  &ensp;&ensp;https://chemprop.readthedocs.io/en/v1.7.1/installation.html (Install from source)  
   &ensp;&ensp;(Note that git downloads replace the address with https://github.com/chemprop/chemprop-v1-old-branches.git)
